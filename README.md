@@ -2,14 +2,14 @@
 - 👀 Estou me esforçando para ser DEV FullStack
 - 🌱 Estudando JavaScript e ReactJS
 
-<div style="display: inline">
+<div style="display: inline-inlineblock">
   <a href="https://github.com/Alan-RiBas" >
-  <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-RiBas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-RiBas&layout=compact&langs_count=7&theme=dark"/>
+  <img style="display: inline" width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-RiBas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="display: inline-block" width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-RiBas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   </div>
-<div style="display: inline"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
