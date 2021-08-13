@@ -3,9 +3,9 @@
 - 🌱 Estudando JavaScript e ReactJS
 
 <div>
-  <a href="https://github.com/Alan-RiBas" style="display: inline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-RiBas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-RiBas&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Alan-RiBas" >
+  <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-RiBas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-RiBas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   </div>
